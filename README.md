@@ -20,11 +20,18 @@
 ## Desktop Apps
 Most programs are installed using [HomeBrew Cask](https://caskroom.github.io/). Any other programs are downloaded from their official website. And yes, I bought licenses for all of them.
 
+### General
+* [Spotify](https://www.spotify.com/nl/) I make a personal playlist every week.
+
 ### Productivity
 * [Bartender 3](https://www.macbartender.com/) to keep my menu bar clean.
 * [Spectacle](https://www.spectacleapp.com/) move and resize windows.
 * [Alfred](https://www.alfredapp.com/) can't live without it. I also use some additional [workflows](/workflows).
 * [1Password](https://1password.com/) so I can autofill my passwords.
+
+### Browser
+* [Firefox Quantum](https://www.mozilla.org/en-US/firefox/new/) switched from chrome a couple of months ago. Use [DuckDuckGo](https://duckduckgo.com/) as main search engine.
+* Extensions:  [Ublock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/), [1Password](https://agilebits.com/onepassword/extensions) and [DuckDuckGo Privacy Essentials](https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-for-firefox/).
 
 ### Design
 
