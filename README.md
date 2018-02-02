@@ -34,7 +34,6 @@ Most programs are installed using [HomeBrew Cask](https://caskroom.github.io/). 
 * Extensions:  [Ublock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/), [1Password](https://agilebits.com/onepassword/extensions) and [DuckDuckGo Privacy Essentials](https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-for-firefox/).
 
 ### Design
-
 * [Sketch App](https://www.sketchapp.com/) as my main design tool.
 * [Figma](https://www.figma.com/) occasionally use.
 
@@ -42,6 +41,11 @@ I have a Creative Cloud Membership for students, so the whole suite. I mainly us
 
 * [Adobe Photoshop CC 2018](https://www.adobe.com/creativecloud/buy/students.html)
 * [Adobe Illustrator CC 2018](https://www.adobe.com/creativecloud/buy/students.html)
-* [Adobe XD CC 2018](https://www.adobe.com/creativecloud/buy/students.html)  
+* [Adobe XD CC 2018](https://www.adobe.com/creativecloud/buy/students.html) 
+
+### Storage
+* For personal files I use [Stack](https://www.transip.nl/stack/)
+* For client work I have a G Suite account and use [Google Drive](https://www.google.com/drive/)
+
 ### Code
 I have another [repo](https://github.com/dandevri/cod.es) that's more in-depth and contains my specific settings but tl;dr [VSCode](https://code.visualstudio.com/).
