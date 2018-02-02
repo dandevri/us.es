@@ -48,4 +48,4 @@ I have a Creative Cloud Membership for students, so the whole suite. I mainly us
 * For client work I have a G Suite account and use [Google Drive](https://www.google.com/drive/)
 
 ### Code
-I have another [repo](https://github.com/dandevri/cod.es) that's more in-depth and contains my specific settings but tl;dr [VSCode](https://code.visualstudio.com/).
+I have another [Repository](https://github.com/dandevri/dotfil.es) that's more in-depth and contains my specific settings but tl;dr [VSCode](https://code.visualstudio.com/).
