@@ -3,7 +3,7 @@
 
 ## Hardware
 
-* [MacBook Pro (13-inch, 2017)](https://www.apple.com/shop/buy-mac/macbook-pro?product=MPXV2LL/A&step=config) with Touch Bar. It's the base model, I only increased the RAM from 8gb to 16gb.
+* [MacBook Pro (13-inch, 2017)](https://www.apple.com/shop/buy-mac/macbook-pro?product=MPXV2LL/A&step=config) with Touch Bar. It's the base model; only increased the RAM from 8gb to 16gb. The keyboard sucks.
 * [Logitech MX Master 2s](https://www.logitech.com/en-us/product/mx-master-2s-flow) for home usage.
 * [Sony MDR-1000X](https://www.sony.com/electronics/headband-headphones/mdr-1000x) headphones. Noise-canceling is a must.
 * [OnePlus 3](https://www.sony.com/electronics/headband-headphones/mdr-1000x) still using the *old* version, looking to upgrade to the 5T.
@@ -11,17 +11,17 @@
 ## Everyday Carry
 
 * [Black Incase Classic Sleeve](https://incase.eu/products/protection/macbook-sleeves/classic-sleeve-for-mb-pro-13.html) to give my macbook some protection.
-* [Secrid Slimwallet - Original Black](https://secrid.com/en/collection/slimwallet/product/id:601645908010) best small wallet made in holland.
+* [Secrid Slimwallet](https://secrid.com/en/collection/slimwallet/product/id:601645908010) best small wallet made in holland.
 * [Jaybird Freedom Special Edition](https://www.hoofdtelefoonstore.nl/product/798743/jaybird-freedom-special-edition.html) nice for listening to podcasts during my commute.
-* [Magic Mouse 2](https://www.apple.com/shop/product/MLA02LL/A/magic-mouse-2) on the go. Lightweight and doesn't take up much space.
-* [Burton Prospect Backpack Black](https://www.burton.com/us/en/p/prospect-backpack/F18-163381.html?color=16338104717) for daily usage. It's a nice small backpack and everything fits nicely.
+* [Magic Mouse 2](https://www.apple.com/shop/product/MLA02LL/A/magic-mouse-2) on the go. Lightweight and doesn't take up much space in my bag.
+* [Burton Prospect Backpack Black](https://www.burton.com/us/en/p/prospect-backpack/F18-163381.html?color=16338104717) for daily usage. It's not that big and everything fits nicely.
 * Some other small stuff; charging cables, presenter, usb-sticks etc.
 
 ## Desktop Apps
 Most programs are installed using [HomeBrew Cask](https://caskroom.github.io/). Any other programs are downloaded from their official website. And yes, I bought licenses for all of them.
 
 ### General
-* [Spotify](https://www.spotify.com/nl/) I make a personal playlist every week.
+* [Spotify](https://www.spotify.com/nl/) for dem beatz. I make a [curated playlist](https://open.spotify.com/user/1146973603?si=wHtXYiP5R36BhZ10xMBrrQ) every week. 
 
 ### Productivity
 * [Bartender 3](https://www.macbartender.com/) to keep my menu bar clean.
@@ -35,9 +35,9 @@ Most programs are installed using [HomeBrew Cask](https://caskroom.github.io/). 
 
 ### Design
 * [Sketch App](https://www.sketchapp.com/) as my main design tool.
-* [Figma](https://www.figma.com/) occasionally use.
+* [Figma](https://www.figma.com/) occasional use.
 
-I have a Creative Cloud Membership for students, so the whole suite. I mainly use:
+I have a Creative Cloud Membership for students, mostly use:
 
 * [Adobe Photoshop CC 2018](https://www.adobe.com/creativecloud/buy/students.html)
 * [Adobe Illustrator CC 2018](https://www.adobe.com/creativecloud/buy/students.html)
