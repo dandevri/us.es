@@ -18,3 +18,23 @@
 * Some other small stuff; charging cables, presenter, usb-sticks etc.
 
 ## Desktop Apps
+Most programs are installed using [HomeBrew Cask](https://caskroom.github.io/). Any other programs are downloaded from their official website. And yes, I bought licenses for all of them.
+
+### Productivity
+* [Bartender 3](https://www.macbartender.com/) to keep my menu bar clean.
+* [Spectacle](https://www.spectacleapp.com/) move and resize windows.
+* [Alfred](https://www.alfredapp.com/) can't live without it. I also use some additional [workflows](/workflows).
+* [1Password](https://1password.com/) so I can autofill my passwords.
+
+### Design
+
+* [Sketch App](https://www.sketchapp.com/) as my main design tool.
+* [Figma](https://www.figma.com/) occasionally use.
+
+I have a Creative Cloud Membership for students, so the whole suite. I mainly use:
+
+* [Adobe Photoshop CC 2018](https://www.adobe.com/creativecloud/buy/students.html)
+* [Adobe Illustrator CC 2018](https://www.adobe.com/creativecloud/buy/students.html)
+* [Adobe XD CC 2018](https://www.adobe.com/creativecloud/buy/students.html)  
+### Code
+I have another [repo](https://github.com/dandevri/cod.es) that's more in-depth and contains my specific settings but tl;dr [VSCode](https://code.visualstudio.com/).
